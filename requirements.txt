@@ -1,11 +1,10 @@
-flask
-gunicorn
+Flask
 requests
-aiohttp
-urllib3
 psutil
+PyJWT
+protobuf
+urllib3
 pytz
-pyjwt
-pycryptodome
+aiohttp
 cfonts
-protobuf>=4.25.1,<5
+pycryptodome
